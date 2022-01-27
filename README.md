@@ -12,3 +12,6 @@ This website helps them to get doctors consultation and medicines delivered to t
 3) Listen Music  
 4) Order online medicines 
 5) Book appointment with doctor for consultation
+
+For Demo Click below link
+https://mohitbaldawa.github.io/Kratin-Assignment/
